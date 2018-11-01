@@ -44,7 +44,6 @@ export default $NAME;" > $NAME.js
 
 echo "@import \"~styles/variables\";
 
-// Main label on the top
 .$NAME {
 }" >$NAME.style.module.scss
 
